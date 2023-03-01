@@ -1,0 +1,3 @@
+this is a staged file
+very good
+
